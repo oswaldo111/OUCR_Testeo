@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OUCR.Temperatura", "OUCR.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OUCR.Temperatura.UnitTestMSTest", "OUCR.Temperatura.UnitTestMSTest\OUCR.Temperatura.UnitTestMSTest.csproj", "{0B9412D9-0582-454B-9314-962DEE948262}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OUCR.Strings", "OUCR.Strings\OUCR.Strings.csproj", "{8D38016F-F46F-4115-8CF2-C1456CD127A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0B9412D9-0582-454B-9314-962DEE948262}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B9412D9-0582-454B-9314-962DEE948262}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B9412D9-0582-454B-9314-962DEE948262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D38016F-F46F-4115-8CF2-C1456CD127A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D38016F-F46F-4115-8CF2-C1456CD127A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D38016F-F46F-4115-8CF2-C1456CD127A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D38016F-F46F-4115-8CF2-C1456CD127A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
