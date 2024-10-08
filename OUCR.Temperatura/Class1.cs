@@ -4,7 +4,7 @@
     {
         public double CelsiusToFahrenheit(double celsius)
         {
-            return (celsius * 9/5) * 32;
+            return (celsius * 9/5) + 32;
         }
 
         public double FahrenheitToCelsius(double fahreniet)
